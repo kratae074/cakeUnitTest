@@ -11,7 +11,7 @@ $configShared = $shared . 'config' . DS;
 
 
 $config = array(
-	'debug' => 3,
+	'debug' => 0,
 	'login' => array(
 		'max_attemp' => 3
 	),
